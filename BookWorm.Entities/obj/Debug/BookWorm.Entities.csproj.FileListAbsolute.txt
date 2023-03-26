@@ -1,0 +1,7 @@
+C:\Users\EMRAH\source\repos\BookWorm\BookWorm.Entities\obj\Debug\BookWorm.Entities.csprojAssemblyReference.cache
+C:\Users\EMRAH\source\repos\BookWorm\BookWorm.Entities\obj\Debug\BookWorm.Entities.csproj.CoreCompileInputs.cache
+C:\Users\EMRAH\source\repos\BookWorm\BookWorm.Entities\bin\Debug\BookWorm.Entities.dll.config
+C:\Users\EMRAH\source\repos\BookWorm\BookWorm.Entities\bin\Debug\BookWorm.Entities.dll
+C:\Users\EMRAH\source\repos\BookWorm\BookWorm.Entities\bin\Debug\BookWorm.Entities.pdb
+C:\Users\EMRAH\source\repos\BookWorm\BookWorm.Entities\obj\Debug\BookWorm.Entities.dll
+C:\Users\EMRAH\source\repos\BookWorm\BookWorm.Entities\obj\Debug\BookWorm.Entities.pdb
